@@ -11,3 +11,4 @@ tiktoken
 pymupdf
 pytesseract
 pillow
+groq
