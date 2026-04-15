@@ -11,4 +11,5 @@ tiktoken
 pymupdf
 pytesseract
 pillow
+fastembed
 groq
