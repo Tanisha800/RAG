@@ -12,4 +12,5 @@ pymupdf
 pytesseract
 pillow
 fastembed
+chromadb
 groq
