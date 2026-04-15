@@ -14,3 +14,4 @@ pillow
 fastembed
 chromadb
 groq
+protobuf==3.20.3
